@@ -2,7 +2,7 @@
 <html lang="pt">
 <head>
     <meta charset="UTF-8">
-    <title>Vertex | Freelance de Elite</title>
+    <title>Vertex | Freelancer de Elite</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -43,4 +43,5 @@
         <p style="font-size: 14px; color: #8892b0;">Já possui uma conta?</p>
         <a href="login.php" style="color: var(--gold); text-decoration: none; font-weight: bold; border: 1px solid var(--gold); padding: 10px 20px; border-radius: 4px; display: inline-block;">FAZER LOGIN</a>
     </div>
+
 </div>
