@@ -2,7 +2,7 @@
 <html lang="pt">
 <head>
     <meta charset="UTF-8">
-    <title>Vertex | Freelancer de Elite</title>
+    <title>Vertex | Freelance de Elite</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -45,3 +45,4 @@
     </div>
 
 </div>
+
