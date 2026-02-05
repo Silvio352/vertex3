@@ -73,4 +73,4 @@ Este software é fornecido com **código aberto** para personalização.
 Em caso de dúvidas técnicas, consulte a documentação completa incluída no pacote ou contacte o suporte através do portal da Hotmart.
 
 ---
-**Desenvolvido por: [Sílvio Gomes]**
+**Desenvolvido por: Sílvio Gomes**
